@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @qpedrick
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently looking for my first job in web development
+- 👀 I’m interested in full stack development, education, progressive agriculture, IoT, politics, and more!
 - 📫 How to reach me:
 quinton.pedrick@gmail.com
 

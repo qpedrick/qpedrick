@@ -9,7 +9,7 @@
 [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipsemosquitto&logoColor=white)](#)
 [![AWS IoT](https://img.shields.io/badge/AWS%20IoT-232F3E?logo=amazonaws&logoColor=white)](#)
 
-Hi, I’m Quinton. I like turning messy, real-world constraints into usable systems. Hospitality taught me operations, empathy, and clear communication—skills I now apply to software and AI.
+Hi, I’m Quinton. I like turning messy, real-world constraints into usable systems. Hospitality taught me operations, empathy, and clear communication - skills I now apply to software and AI.
 
 ---
 
